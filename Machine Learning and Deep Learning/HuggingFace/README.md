@@ -2,13 +2,12 @@
 
 This repository is meant for Deep Learning experiments using HuggingFace 🤗 library.
 
-**The project is divided into three parts**
-
-* Creating a custom dataset for potato detection, 
-
-* Training,
-
-* Inference
+**What is HuggingFace?**
+Huggingface, apart from the emoji 🤗, an AI company and community. It provides a Deep Larning Library by the same name to - 
+* use pre-trained models
+* fine-tune pre-trained models
+* share your trained models
+in NLP and Computer Visions. BUT all with minimum lines of code on Python, using numerous APIs to simplify the process of researching and deploying NLP and Vision models in both academia and industry.
 
 **NOTE - If you wish to directly look at the results of this project, open out.mp4. The video, along with some large files used during inference are pushed to github using lfs. So please use the command line to clone this repo so that lfs can work properly and download large files.**
 
