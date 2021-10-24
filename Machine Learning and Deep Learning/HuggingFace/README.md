@@ -18,7 +18,7 @@ Huggingface, apart from the emoji 🤗, an AI company and community. It provides
 
 
 
-
+Two types of work - Research DL models and use them. Hugging face is for the second one
 
 
 
