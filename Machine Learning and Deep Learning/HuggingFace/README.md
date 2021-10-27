@@ -25,6 +25,7 @@ I strongly believe that with the current rate of Hugging Face's developments, th
 And this repository will always be a work in progress, as I go deeper in their APIs for the second kind of engineering, which is what I love ;)
 
 **JARGON ALERT!!**
+
 Hugging Face is most known for their Transformer models for NLP tasks (and Vision, which is a new development).
 For the unintiated, Transformers were introduced in 2017 by Vaswani et all in the paper titled "Attention is All You Need" (A quick google search would do a better job in explaining this)
 
