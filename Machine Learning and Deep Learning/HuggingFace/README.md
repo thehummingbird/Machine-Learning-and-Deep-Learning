@@ -28,9 +28,9 @@ And this repository will always be a work in progress, as I go deeper in their A
 Hugging Face is most known for their Transformer models for NLP tasks (and Vision, which is a new development).
 For the unintiated, Transformers were introduced in 2017 by Vaswani et all in the paper titled "Attention is All You Need" (A quick google search would do a better job in explaining this)
 
-Since then, Transformers have taken the world of NLP and Vision by storm. And Hugging Face currently provides an amazing infrastructure to play with them for NLP and Vision tasks with minimal DL specific engineering.
+Since then, Transformers have taken the world of NLP and Vision by storm. And Hugging Face currently provides amazing infrastructure to play with them for NLP and Vision tasks with minimal DL specific engineering.
 
-You would find a list of notebooks in this repository (always a work in progress) explaining almost everything about Hugging Face APIs for these tasks from scratch
+You would find a list of notebooks in this repository (always a work in progress) explaining almost everything about Hugging Face APIs from scratch (currently NLP)
 
 I hope you find them useful. Feedback always appreciated :)
 
