@@ -33,7 +33,7 @@ Since then, Transformers have taken the world of NLP and Vision by storm. And Hu
 
 You would find a list of notebooks in this repository (always a work in progress) explaining almost everything about Hugging Face APIs from scratch (currently NLP).
 
-*Note - This repository is a distillation of HUgging Face course on their webpage. Their documentation is slighly more detailed and it might be worthwhile to check it out*
+*Note - This repository is a distillation of Hugging Face course on their webpage. Their documentation is slighly more detailed and it might be worthwhile to check it out*
 
 I hope you find them useful. Feedback always appreciated :)
 
